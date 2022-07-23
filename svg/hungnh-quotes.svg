@@ -22,15 +22,15 @@
         .quotes-vi {
           font-size: 18px;
         }
-        .trungquandev-signature {
+        .hungnh-signature {
           font-size: 16px;
         }
 			</style>
 
 			<div class="container">
-        <div class="quotes-eng">"After a day! We've learned something new? Or become a copy of yesterday?"</div>
-        <div class="quotes-vi">"Qua một ngày, chúng ta học thêm được gì mới? Hay trở thành bản sao của ngày hôm qua?"</div>
-        <div class="trungquandev-signature">-Trungquandev Official-</div>
+        <div class="quotes-eng">"When life changes to be harder, change yourself to be stronger."</div>
+        <div class="quotes-vi">"Khi cuộc sống trở nên khó khăn hơn, hãy thay đổi bản thân để trở nên mạnh mẽ hơn."</div>
+        <div class="hungnh-signature">-Hungnh Official-</div>
       </div>
 		</div>
 	</foreignObject>
